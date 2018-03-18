@@ -21,7 +21,7 @@ public class CardController {
     @RequestMapping("/")
     public String redirToList(){
     	System.out.println("root directory");
-        return "redirect:/cards";
+        return "redirect:/cards"; 
     }
 	
     @RequestMapping({"/card/list", "/card"})

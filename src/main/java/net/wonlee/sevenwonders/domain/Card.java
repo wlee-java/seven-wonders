@@ -17,7 +17,6 @@ public class Card {
 	private long upgrade_from_card_id;
 	
 	
-	
 	public Card() {
 
 	}

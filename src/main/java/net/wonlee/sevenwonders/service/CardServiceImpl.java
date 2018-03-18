@@ -19,7 +19,6 @@ public class CardServiceImpl implements CardService {
     @Autowired
     public CardServiceImpl(CardRepository cardRepository) {
         this.cardRepository = cardRepository;
-
     }
 
 	@Override
