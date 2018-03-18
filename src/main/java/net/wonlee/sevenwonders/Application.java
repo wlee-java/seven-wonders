@@ -17,6 +17,6 @@ public class Application {
 
 		ApplicationContext ctx = SpringApplication.run(Application.class, args);
 		System.out.println("Starting app");
-	}
+	} 
 
 }
