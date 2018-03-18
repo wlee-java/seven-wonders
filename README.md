@@ -1,1 +1,1 @@
-# SevenWonders
+# This is my person project to analyze various strategies for Seven Wonders.
