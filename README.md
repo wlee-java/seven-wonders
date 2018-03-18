@@ -1,1 +1,1 @@
-# This is my person project to analyze various strategies for Seven Wonders.
+# This is my personal project to analyze various strategies for Seven Wonders.
